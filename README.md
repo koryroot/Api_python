@@ -16,21 +16,21 @@ Descargue el script del instalador get-pip.py. Si estás en Python 3.2, necesita
 Abra el símbolo del sistema y navegue hasta el archivo get-pip.py.
  
 Ejecute el siguiente comando: 
-`< python get-pip.py>`
+`python get-pip.py`
 #### Instalar PIP en Mac
 Los sistemas Mac modernos vienen con Python y PIP ya instalados. Sin embargo, esta versión de Python tiende a ser obsoleta y no es la mejor opción para el desarrollo
 Si desea utilizar la instalación de Python del sistema nativo pero no tiene PIP disponible, puede instalar PIP con el siguiente comando en Terminal:
  
-`<sudo easy_install pip>` 
+`sudo easy_install pip` 
 #### Instalar PIP en Linux
 Si su distribución de Linux vino con Python ya instalado, debería poder instalar PIP usando el administrador de paquetes de su sistema.
 Herramienta de paquete avanzado (Python 2.x):
-`<sudo apt-get install python-pip>`
+`sudo apt-get install python-pip`
 Herramienta de paquete avanzado (Python 3.x):
-`<sudo apt-get install python3-pip>`
+`sudo apt-get install python3-pip`
 
-####Instalar FastApi
-`<pip3 install fastapi>`
+#### Instalar FastApi
+`pip3 install fastapi`
 
-####Instalar uvicorn
-`<pip3 install uvicorn>`
+#### Instalar uvicorn
+`pip3 install uvicorn`
